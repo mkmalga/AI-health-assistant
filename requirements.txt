@@ -1,0 +1,7 @@
+streamlit 
+transformers 
+tensorflow 
+tf-keras
+nltk
+dotenv
+groq
